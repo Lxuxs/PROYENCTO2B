@@ -1,9 +1,98 @@
 ﻿{
   "paragraphs": [
     {
+      "text": "%md\n# ANÁLISIS DE LOS SINIESTROS VEHICULARES EN ECUADOR EN EL 2023",
+      "user": "anonymous",
+      "dateUpdated": "2025-07-25T07:20:00+0000",
+      "progress": 0,
+      "config": {
+        "tableHide": false,
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/markdown",
+        "fontSize": 9,
+        "editorHide": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "<div class=\"markdown-body\">\n<h1>ANÁLISIS DE LOS SINIESTROS VEHICULARES EN ECUADOR EN EL 2023</h1>\n\n</div>"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1753427289143_1633472431",
+      "id": "paragraph_1753427289143_1633472431",
+      "dateCreated": "2025-07-25T07:08:09+0000",
+      "dateStarted": "2025-07-25T07:20:00+0000",
+      "dateFinished": "2025-07-25T07:20:03+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:605"
+    },
+    {
+      "text": "%md\n### Integrantes:\n - Juan Diego Guerrero Camargo\n - Gabriela Elizabeth Loyola Romero\n - Luis Alonso Sarango Romero",
+      "user": "anonymous",
+      "dateUpdated": "2025-07-25T07:13:40+0000",
+      "progress": 0,
+      "config": {
+        "tableHide": false,
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/markdown",
+        "fontSize": 9,
+        "editorHide": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "<div class=\"markdown-body\">\n<h3>Integrantes:</h3>\n<ul>\n<li>Juan Diego Guerrero Camargo</li>\n<li>Gabriela Elizabeth Loyola Romero</li>\n<li>Luis Alonso Sarango Romero</li>\n</ul>\n\n</div>"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1753427310516_2078687051",
+      "id": "paragraph_1753427310516_2078687051",
+      "dateCreated": "2025-07-25T07:08:30+0000",
+      "dateStarted": "2025-07-25T07:13:40+0000",
+      "dateFinished": "2025-07-25T07:13:40+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:606"
+    },
+    {
       "text": "%md\n# Parametros de conexión con la base de datos",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:30+0000",
+      "dateUpdated": "2025-07-25T07:13:40+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -39,16 +128,15 @@
       "jobName": "paragraph_1753417277675_32576969",
       "id": "paragraph_1753395713844_125242287",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:30+0000",
-      "dateFinished": "2025-07-25T05:49:30+0000",
+      "dateStarted": "2025-07-25T07:13:40+0000",
+      "dateFinished": "2025-07-25T07:13:40+0000",
       "status": "FINISHED",
-      "focus": true,
-      "$$hashKey": "object:14503"
+      "$$hashKey": "object:607"
     },
     {
       "text": "val jdbcUrl = \"jdbc:mysql://localhost:3306/proyecto\" \nval connectionProperties = new java.util.Properties()\nconnectionProperties.setProperty(\"user\", \"root\")\nconnectionProperties.setProperty(\"password\", \"Salamanca_0214\")\nconnectionProperties.setProperty(\"driver\", \"com.mysql.cj.jdbc.Driver\")\n",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:30+0000",
+      "dateUpdated": "2025-07-25T07:13:41+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -72,7 +160,7 @@
         "msg": [
           {
             "type": "TEXT",
-            "data": "\u001b[1m\u001b[34mjdbcUrl\u001b[0m: \u001b[1m\u001b[32mString\u001b[0m = jdbc:mysql://localhost:3306/proyecto\n\u001b[1m\u001b[34mconnectionProperties\u001b[0m: \u001b[1m\u001b[32mjava.util.Properties\u001b[0m = {user=root, password=Salamanca_0214, driver=com.mysql.cj.jdbc.Driver}\n\u001b[1m\u001b[34mres9\u001b[0m: \u001b[1m\u001b[32mObject\u001b[0m = null\n"
+            "data": "\u001b[1m\u001b[34mjdbcUrl\u001b[0m: \u001b[1m\u001b[32mString\u001b[0m = jdbc:mysql://localhost:3306/proyecto\n\u001b[1m\u001b[34mconnectionProperties\u001b[0m: \u001b[1m\u001b[32mjava.util.Properties\u001b[0m = {user=root, password=Salamanca_0214, driver=com.mysql.cj.jdbc.Driver}\n\u001b[1m\u001b[34mres57\u001b[0m: \u001b[1m\u001b[32mObject\u001b[0m = null\n"
           }
         ]
       },
@@ -82,15 +170,15 @@
       "jobName": "paragraph_1753417277675_1184615774",
       "id": "paragraph_1753395551929_1191008060",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:30+0000",
-      "dateFinished": "2025-07-25T05:49:31+0000",
+      "dateStarted": "2025-07-25T07:13:41+0000",
+      "dateFinished": "2025-07-25T07:13:41+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14504"
+      "$$hashKey": "object:608"
     },
     {
       "text": "%md \n### Carga de la tabla vehiculos_matriculados como DataFrame",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:31+0000",
+      "dateUpdated": "2025-07-25T07:13:41+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -126,15 +214,15 @@
       "jobName": "paragraph_1753417277676_471352687",
       "id": "paragraph_1753395754375_780790211",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:31+0000",
-      "dateFinished": "2025-07-25T05:49:31+0000",
+      "dateStarted": "2025-07-25T07:13:41+0000",
+      "dateFinished": "2025-07-25T07:13:41+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14505"
+      "$$hashKey": "object:609"
     },
     {
       "text": "val df_vehiculos = spark.read\n  .jdbc(jdbcUrl, \"vehiculos_matriculados\", connectionProperties)\n\ndf_vehiculos.createOrReplaceTempView(\"vehiculos_matriculados\")",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:31+0000",
+      "dateUpdated": "2025-07-25T07:13:41+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -168,15 +256,15 @@
       "jobName": "paragraph_1753417277676_1707335199",
       "id": "paragraph_1753395179818_340288403",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:31+0000",
-      "dateFinished": "2025-07-25T05:49:31+0000",
+      "dateStarted": "2025-07-25T07:13:41+0000",
+      "dateFinished": "2025-07-25T07:13:41+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14506"
+      "$$hashKey": "object:610"
     },
     {
       "text": "%md\n### Carga de la tabla provincia como DataFrame",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:31+0000",
+      "dateUpdated": "2025-07-25T07:13:41+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -212,15 +300,15 @@
       "jobName": "paragraph_1753417277676_703124012",
       "id": "paragraph_1753395796084_35202186",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:31+0000",
-      "dateFinished": "2025-07-25T05:49:31+0000",
+      "dateStarted": "2025-07-25T07:13:41+0000",
+      "dateFinished": "2025-07-25T07:13:41+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14507"
+      "$$hashKey": "object:611"
     },
     {
       "text": "val df_provincia = spark.read.jdbc(jdbcUrl, \"provincia\", connectionProperties)\ndf_provincia.createOrReplaceTempView(\"provincia\")",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:31+0000",
+      "dateUpdated": "2025-07-25T07:13:42+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -254,15 +342,15 @@
       "jobName": "paragraph_1753417277676_1288388377",
       "id": "paragraph_1753395634147_1643997231",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:31+0000",
-      "dateFinished": "2025-07-25T05:49:32+0000",
+      "dateStarted": "2025-07-25T07:13:42+0000",
+      "dateFinished": "2025-07-25T07:13:42+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14508"
+      "$$hashKey": "object:612"
     },
     {
       "text": "%md\n### Carga de la tabla mes como DataFrame",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:32+0000",
+      "dateUpdated": "2025-07-25T07:13:42+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -298,15 +386,15 @@
       "jobName": "paragraph_1753417277676_1631433022",
       "id": "paragraph_1753395814575_880692618",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:32+0000",
-      "dateFinished": "2025-07-25T05:49:32+0000",
+      "dateStarted": "2025-07-25T07:13:42+0000",
+      "dateFinished": "2025-07-25T07:13:42+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14509"
+      "$$hashKey": "object:613"
     },
     {
       "text": "val df_mes = spark.read.jdbc(jdbcUrl, \"mes\", connectionProperties)\ndf_mes.createOrReplaceTempView(\"mes\")\n",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:32+0000",
+      "dateUpdated": "2025-07-25T07:13:42+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -340,15 +428,15 @@
       "jobName": "paragraph_1753417277676_491241469",
       "id": "paragraph_1753395618362_388524559",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:32+0000",
-      "dateFinished": "2025-07-25T05:49:32+0000",
+      "dateStarted": "2025-07-25T07:13:42+0000",
+      "dateFinished": "2025-07-25T07:13:42+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14510"
+      "$$hashKey": "object:614"
     },
     {
       "text": "%md\n### Carga de la tabla siniestro_mes como DataFrame",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:32+0000",
+      "dateUpdated": "2025-07-25T07:13:42+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -384,15 +472,15 @@
       "jobName": "paragraph_1753417277676_1267435904",
       "id": "paragraph_1753395823670_1606444769",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:32+0000",
-      "dateFinished": "2025-07-25T05:49:32+0000",
+      "dateStarted": "2025-07-25T07:13:42+0000",
+      "dateFinished": "2025-07-25T07:13:42+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14511"
+      "$$hashKey": "object:615"
     },
     {
       "text": "val df_siniestros = spark.read.jdbc(jdbcUrl, \"siniestro_mes\", connectionProperties)\ndf_siniestros.createOrReplaceTempView(\"siniestro_mes\")",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:32+0000",
+      "dateUpdated": "2025-07-25T07:13:42+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -426,15 +514,15 @@
       "jobName": "paragraph_1753417277676_524401630",
       "id": "paragraph_1753395694538_489764243",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:32+0000",
-      "dateFinished": "2025-07-25T05:49:33+0000",
+      "dateStarted": "2025-07-25T07:13:42+0000",
+      "dateFinished": "2025-07-25T07:13:42+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14512"
+      "$$hashKey": "object:616"
     },
     {
       "text": "%md\n### Carga de la tabla victimas_provincia como DataFrame",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:33+0000",
+      "dateUpdated": "2025-07-25T07:13:42+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -470,15 +558,15 @@
       "jobName": "paragraph_1753417277676_676868453",
       "id": "paragraph_1753395835288_2047437522",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:33+0000",
-      "dateFinished": "2025-07-25T05:49:33+0000",
+      "dateStarted": "2025-07-25T07:13:42+0000",
+      "dateFinished": "2025-07-25T07:13:42+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14513"
+      "$$hashKey": "object:617"
     },
     {
       "text": "val df_victimas = spark.read.jdbc(jdbcUrl, \"victimas_provincia\", connectionProperties)\ndf_victimas.createOrReplaceTempView(\"victimas_provincia\")",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:33+0000",
+      "dateUpdated": "2025-07-25T07:13:43+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -512,15 +600,15 @@
       "jobName": "paragraph_1753417277676_1592879818",
       "id": "paragraph_1753395700666_427987894",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:33+0000",
-      "dateFinished": "2025-07-25T05:49:33+0000",
+      "dateStarted": "2025-07-25T07:13:43+0000",
+      "dateFinished": "2025-07-25T07:13:43+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14514"
+      "$$hashKey": "object:618"
     },
     {
       "text": "%md\n# Consultas",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:33+0000",
+      "dateUpdated": "2025-07-25T07:13:43+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -556,15 +644,46 @@
       "jobName": "paragraph_1753417277676_1802711917",
       "id": "paragraph_1753396000059_1184561592",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:33+0000",
-      "dateFinished": "2025-07-25T05:49:33+0000",
+      "dateStarted": "2025-07-25T07:13:43+0000",
+      "dateFinished": "2025-07-25T07:13:43+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14515"
+      "$$hashKey": "object:619"
+    },
+    {
+      "text": "",
+      "user": "anonymous",
+      "dateUpdated": "2025-07-25T07:13:43+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1753427493222_1935470594",
+      "id": "paragraph_1753427493222_1935470594",
+      "dateCreated": "2025-07-25T07:11:33+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:620"
     },
     {
       "text": "%md\n### Total de siniestros por provincia",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:33+0000",
+      "dateUpdated": "2025-07-25T07:13:43+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -600,16 +719,16 @@
       "jobName": "paragraph_1753417277676_1442003403",
       "id": "paragraph_1753396009143_229762253",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:33+0000",
-      "dateFinished": "2025-07-25T05:49:34+0000",
+      "dateStarted": "2025-07-25T07:13:43+0000",
+      "dateFinished": "2025-07-25T07:13:43+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14516"
+      "$$hashKey": "object:621"
     },
     {
       "text": "val siniestrosPorProvincia = df_siniestros\n  .groupBy(\"provincia_id\")\n  .agg(sum(\"num_siniestros\").alias(\"total_siniestros\"))\n  .join(df_provincia, Seq(\"provincia_id\"))\n  .select(\"Provincia\", \"total_siniestros\")\n  .orderBy(desc(\"total_siniestros\"))\n\nz.show(siniestrosPorProvincia)",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:34+0000",
-      "progress": 100,
+      "dateUpdated": "2025-07-25T07:13:43+0000",
+      "progress": 50,
       "config": {
         "editorSetting": {
           "language": "scala",
@@ -679,16 +798,16 @@
           "group": "spark",
           "values": [
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=0",
-              "$$hashKey": "object:16416"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=132",
+              "$$hashKey": "object:2414"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=1",
-              "$$hashKey": "object:16417"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=133",
+              "$$hashKey": "object:2415"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=3",
-              "$$hashKey": "object:16418"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=135",
+              "$$hashKey": "object:2416"
             }
           ],
           "interpreterSettingId": "spark"
@@ -698,15 +817,15 @@
       "jobName": "paragraph_1753417277676_195735453",
       "id": "paragraph_1753395977956_1320955030",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:34+0000",
-      "dateFinished": "2025-07-25T05:49:40+0000",
+      "dateStarted": "2025-07-25T07:13:43+0000",
+      "dateFinished": "2025-07-25T07:13:43+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14517"
+      "$$hashKey": "object:622"
     },
     {
       "text": "%md \n### Siniestros por mes (nacional)",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:40+0000",
+      "dateUpdated": "2025-07-25T07:13:43+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -742,15 +861,15 @@
       "jobName": "paragraph_1753417277676_301772048",
       "id": "paragraph_1753396031648_781224745",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:40+0000",
-      "dateFinished": "2025-07-25T05:49:40+0000",
+      "dateStarted": "2025-07-25T07:13:43+0000",
+      "dateFinished": "2025-07-25T07:13:43+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14518"
+      "$$hashKey": "object:623"
     },
     {
       "text": "val siniestrosPorMes = df_siniestros\n  .groupBy(\"mes_id\")\n  .agg(sum(\"num_siniestros\").alias(\"total_siniestros\"))\n  .join(df_mes, df_siniestros(\"mes_id\") === df_mes(\"id_mes\"))\n  .select(\"mes\", \"total_siniestros\")\n  .orderBy(desc(\"total_siniestros\"))\n\nz.show(siniestrosPorMes)",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:40+0000",
+      "dateUpdated": "2025-07-25T07:13:44+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -765,7 +884,7 @@
         "results": {
           "0": {
             "graph": {
-              "mode": "table",
+              "mode": "lineChart",
               "height": 300,
               "optionOpen": false,
               "setting": {
@@ -786,10 +905,38 @@
                   },
                   "updated": false,
                   "initialized": false
+                },
+                "multiBarChart": {
+                  "rotate": {
+                    "degree": "-45"
+                  },
+                  "xLabelStatus": "default"
+                },
+                "lineChart": {
+                  "rotate": {
+                    "degree": "-45"
+                  },
+                  "xLabelStatus": "default"
                 }
               },
-              "commonSetting": {}
-            }
+              "commonSetting": {},
+              "keys": [
+                {
+                  "name": "mes",
+                  "index": 0,
+                  "aggr": "sum"
+                }
+              ],
+              "groups": [],
+              "values": [
+                {
+                  "name": "total_siniestros",
+                  "index": 1,
+                  "aggr": "sum"
+                }
+              ]
+            },
+            "helium": {}
           }
         },
         "enabled": true
@@ -820,16 +967,16 @@
           "group": "spark",
           "values": [
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=4",
-              "$$hashKey": "object:16580"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=136",
+              "$$hashKey": "object:2510"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=5",
-              "$$hashKey": "object:16581"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=137",
+              "$$hashKey": "object:2511"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=7",
-              "$$hashKey": "object:16582"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=139",
+              "$$hashKey": "object:2512"
             }
           ],
           "interpreterSettingId": "spark"
@@ -839,15 +986,15 @@
       "jobName": "paragraph_1753417277677_1777599880",
       "id": "paragraph_1753395981866_1029720811",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:40+0000",
-      "dateFinished": "2025-07-25T05:49:41+0000",
+      "dateStarted": "2025-07-25T07:13:44+0000",
+      "dateFinished": "2025-07-25T07:13:44+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14519"
+      "$$hashKey": "object:624"
     },
     {
       "text": "%md\n\n### Índice de víctimas por siniestro por provincia",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:41+0000",
+      "dateUpdated": "2025-07-25T07:13:44+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -883,16 +1030,16 @@
       "jobName": "paragraph_1753417277677_218482951",
       "id": "paragraph_1753396078327_1675366577",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:41+0000",
-      "dateFinished": "2025-07-25T05:49:41+0000",
+      "dateStarted": "2025-07-25T07:13:44+0000",
+      "dateFinished": "2025-07-25T07:13:44+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14520"
+      "$$hashKey": "object:625"
     },
     {
       "text": "val siniestrosPorProvinciaAgg = df_siniestros\n  .groupBy(\"provincia_id\")\n  .agg(sum(\"num_siniestros\").alias(\"siniestros_total\"))\n\nval victimasPorSiniestro = df_victimas\n  .join(siniestrosPorProvinciaAgg, \"provincia_id\")\n  .join(df_provincia, \"provincia_id\")\n  .withColumn(\"victimas_por_siniestro\", col(\"total_victimas\") / col(\"siniestros_total\"))\n  .select(\"Provincia\", \"total_victimas\", \"siniestros_total\", \"victimas_por_siniestro\")\n  .orderBy(desc(\"victimas_por_siniestro\"))\n\nz.show(victimasPorSiniestro)",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:42+0000",
-      "progress": 0,
+      "dateUpdated": "2025-07-25T07:13:44+0000",
+      "progress": 100,
       "config": {
         "editorSetting": {
           "language": "scala",
@@ -997,20 +1144,20 @@
           "group": "spark",
           "values": [
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=8",
-              "$$hashKey": "object:16744"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=140",
+              "$$hashKey": "object:2606"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=9",
-              "$$hashKey": "object:16745"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=141",
+              "$$hashKey": "object:2607"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=10",
-              "$$hashKey": "object:16746"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=142",
+              "$$hashKey": "object:2608"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=12",
-              "$$hashKey": "object:16747"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=144",
+              "$$hashKey": "object:2609"
             }
           ],
           "interpreterSettingId": "spark"
@@ -1020,15 +1167,15 @@
       "jobName": "paragraph_1753417277677_1339685380",
       "id": "paragraph_1753396057310_1097378817",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:42+0000",
-      "dateFinished": "2025-07-25T05:49:44+0000",
+      "dateStarted": "2025-07-25T07:13:44+0000",
+      "dateFinished": "2025-07-25T07:13:45+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14521"
+      "$$hashKey": "object:626"
     },
     {
       "text": "%md\n\n### Tipos de vehículos más frecuentes por provincia",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:44+0000",
+      "dateUpdated": "2025-07-25T07:13:45+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -1064,16 +1211,16 @@
       "jobName": "paragraph_1753417277677_880351981",
       "id": "paragraph_1753396093605_1750138845",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:44+0000",
-      "dateFinished": "2025-07-25T05:49:44+0000",
+      "dateStarted": "2025-07-25T07:13:45+0000",
+      "dateFinished": "2025-07-25T07:13:45+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14522"
+      "$$hashKey": "object:627"
     },
     {
       "text": "val df_veh = df_vehiculos.alias(\"veh\")\nval df_prov = df_provincia.alias(\"prov\")\n\nval clasesPorProvincia = df_veh\n  .groupBy(\"PROVINCIA\", \"CLASE\")\n  .agg(count(\"*\").alias(\"cantidad\"))\n  .join(df_prov, col(\"veh.PROVINCIA\") === col(\"prov.provincia_id\"))\n  .select(col(\"prov.Provincia\").alias(\"Provincia\"), col(\"CLASE\"), col(\"cantidad\"))\n  .orderBy(col(\"Provincia\"), col(\"cantidad\").desc)\n\nz.show(clasesPorProvincia)\n",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:44+0000",
-      "progress": 100,
+      "dateUpdated": "2025-07-25T07:13:45+0000",
+      "progress": 0,
       "config": {
         "editorSetting": {
           "language": "scala",
@@ -1087,7 +1234,7 @@
         "results": {
           "0": {
             "graph": {
-              "mode": "table",
+              "mode": "pieChart",
               "height": 300,
               "optionOpen": false,
               "setting": {
@@ -1112,7 +1259,8 @@
                 }
               },
               "commonSetting": {}
-            }
+            },
+            "helium": {}
           }
         },
         "enabled": true
@@ -1143,16 +1291,16 @@
           "group": "spark",
           "values": [
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=13",
-              "$$hashKey": "object:16913"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=145",
+              "$$hashKey": "object:2707"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=14",
-              "$$hashKey": "object:16914"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=146",
+              "$$hashKey": "object:2708"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=16",
-              "$$hashKey": "object:16915"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=148",
+              "$$hashKey": "object:2709"
             }
           ],
           "interpreterSettingId": "spark"
@@ -1162,15 +1310,15 @@
       "jobName": "paragraph_1753417277677_1970247540",
       "id": "paragraph_1753396124737_1740762366",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:44+0000",
-      "dateFinished": "2025-07-25T05:49:46+0000",
+      "dateStarted": "2025-07-25T07:13:45+0000",
+      "dateFinished": "2025-07-25T07:13:45+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14523"
+      "$$hashKey": "object:628"
     },
     {
       "text": "%md\n### Relación entre número de vehículos y número de siniestros por provincia",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:46+0000",
+      "dateUpdated": "2025-07-25T07:13:45+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -1206,16 +1354,16 @@
       "jobName": "paragraph_1753417277678_883158321",
       "id": "paragraph_1753396142484_1992499227",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:46+0000",
-      "dateFinished": "2025-07-25T05:49:47+0000",
+      "dateStarted": "2025-07-25T07:13:45+0000",
+      "dateFinished": "2025-07-25T07:13:45+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14524"
+      "$$hashKey": "object:629"
     },
     {
       "text": "val siniestros = df_siniestros.groupBy(\"provincia_id\")\n  .agg(sum(\"num_siniestros\").alias(\"total_siniestros\"))\n\nval vehiculos = df_vehiculos.groupBy(\"PROVINCIA\")\n  .agg(count(\"*\").alias(\"total_vehiculos\"))\n\nval prov = df_provincia.alias(\"prov\")\n\nval relacion = siniestros\n  .join(vehiculos, siniestros(\"provincia_id\") === vehiculos(\"PROVINCIA\"))\n  .join(prov, siniestros(\"provincia_id\") === prov(\"provincia_id\"))\n  .select(\n    prov(\"Provincia\").alias(\"Provincia\"),\n    col(\"total_vehiculos\"),\n    col(\"total_siniestros\"),\n    round(col(\"total_siniestros\") / col(\"total_vehiculos\"), 4).alias(\"siniestros_por_vehiculo\")\n  )\n  .orderBy(desc(\"siniestros_por_vehiculo\"))\n\nz.show(relacion)\n",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:47+0000",
-      "progress": 0,
+      "dateUpdated": "2025-07-25T07:13:45+0000",
+      "progress": 100,
       "config": {
         "editorSetting": {
           "language": "scala",
@@ -1287,20 +1435,20 @@
           "group": "spark",
           "values": [
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=17",
-              "$$hashKey": "object:17077"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=149",
+              "$$hashKey": "object:2803"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=18",
-              "$$hashKey": "object:17078"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=150",
+              "$$hashKey": "object:2804"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=19",
-              "$$hashKey": "object:17079"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=151",
+              "$$hashKey": "object:2805"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=21",
-              "$$hashKey": "object:17080"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=153",
+              "$$hashKey": "object:2806"
             }
           ],
           "interpreterSettingId": "spark"
@@ -1310,18 +1458,18 @@
       "jobName": "paragraph_1753417277678_758417875",
       "id": "paragraph_1753396329592_1228037690",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:47+0000",
-      "dateFinished": "2025-07-25T05:49:48+0000",
+      "dateStarted": "2025-07-25T07:13:45+0000",
+      "dateFinished": "2025-07-25T07:13:46+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14525"
+      "$$hashKey": "object:630"
     },
     {
       "text": "%md\n### ¿Qué tipo de vehículos predominan en provincias con muchos siniestros?",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:49:48+0000",
+      "dateUpdated": "2025-07-25T07:14:00+0000",
       "progress": 0,
       "config": {
-        "tableHide": true,
+        "tableHide": false,
         "editorSetting": {
           "language": "markdown",
           "editOnDblClick": true,
@@ -1331,7 +1479,7 @@
         "colWidth": 12,
         "editorMode": "ace/mode/markdown",
         "fontSize": 9,
-        "editorHide": false,
+        "editorHide": true,
         "results": {},
         "enabled": true
       },
@@ -1354,15 +1502,15 @@
       "jobName": "paragraph_1753417277678_600413606",
       "id": "paragraph_1753396360233_208389147",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:49:48+0000",
-      "dateFinished": "2025-07-25T05:49:48+0000",
+      "dateStarted": "2025-07-25T07:14:00+0000",
+      "dateFinished": "2025-07-25T07:14:00+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14526"
+      "$$hashKey": "object:631"
     },
     {
       "text": "val dfv = df_vehiculos.alias(\"veh\")\nval dfp = df_provincia.alias(\"prov\")\n\nval tiposPorProvincia = dfv\n  .groupBy(col(\"veh.PROVINCIA\"), col(\"veh.CLASE\"))\n  .agg(count(\"*\").alias(\"cantidad\"))\n  .join(dfp, col(\"veh.PROVINCIA\") === col(\"prov.provincia_id\"))\n  .select(col(\"prov.Provincia\").alias(\"Provincia\"), col(\"veh.CLASE\").alias(\"Clase\"), col(\"cantidad\"))\n  .orderBy(col(\"Provincia\"), col(\"cantidad\").desc)\n\nz.show(tiposPorProvincia)",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:50:36+0000",
+      "dateUpdated": "2025-07-25T07:13:46+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -1377,7 +1525,7 @@
         "results": {
           "0": {
             "graph": {
-              "mode": "table",
+              "mode": "pieChart",
               "height": 300,
               "optionOpen": false,
               "setting": {
@@ -1402,7 +1550,8 @@
                 }
               },
               "commonSetting": {}
-            }
+            },
+            "helium": {}
           }
         },
         "enabled": true
@@ -1433,16 +1582,16 @@
           "group": "spark",
           "values": [
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=22",
-              "$$hashKey": "object:17248"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=154",
+              "$$hashKey": "object:2904"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=23",
-              "$$hashKey": "object:17249"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=155",
+              "$$hashKey": "object:2905"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=25",
-              "$$hashKey": "object:17250"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=157",
+              "$$hashKey": "object:2906"
             }
           ],
           "interpreterSettingId": "spark"
@@ -1452,15 +1601,15 @@
       "jobName": "paragraph_1753417277678_534734297",
       "id": "paragraph_1753396597532_1387786890",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T05:50:34+0000",
-      "dateFinished": "2025-07-25T05:50:35+0000",
+      "dateStarted": "2025-07-25T07:13:46+0000",
+      "dateFinished": "2025-07-25T07:13:47+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14527"
+      "$$hashKey": "object:632"
     },
     {
       "text": "%md\n### ¿Hay relación entre el tipo de combustible y accidentes?",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T04:21:17+0000",
+      "dateUpdated": "2025-07-25T07:13:47+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -1496,14 +1645,16 @@
       "jobName": "paragraph_1753417277678_1713615313",
       "id": "paragraph_1753396606065_515566891",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "status": "READY",
-      "$$hashKey": "object:14528"
+      "dateStarted": "2025-07-25T07:13:47+0000",
+      "dateFinished": "2025-07-25T07:13:47+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:633"
     },
     {
       "text": "val combustiblePorProvincia = df_vehiculos\n  .groupBy(\"PROVINCIA\", \"COMBUSTIBLE\")\n  .agg(count(\"*\").alias(\"cantidad\"))\n\nz.show(combustiblePorProvincia)",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:29:23+0000",
-      "progress": 0,
+      "dateUpdated": "2025-07-25T07:13:47+0000",
+      "progress": 50,
       "config": {
         "editorSetting": {
           "language": "scala",
@@ -1517,7 +1668,7 @@
         "results": {
           "0": {
             "graph": {
-              "mode": "stackedAreaChart",
+              "mode": "pieChart",
               "height": 300,
               "optionOpen": false,
               "setting": {
@@ -1547,6 +1698,12 @@
                   "xLabelStatus": "default"
                 },
                 "stackedAreaChart": {
+                  "rotate": {
+                    "degree": "-45"
+                  },
+                  "xLabelStatus": "default"
+                },
+                "lineChart": {
                   "rotate": {
                     "degree": "-45"
                   },
@@ -1593,18 +1750,38 @@
         ]
       },
       "apps": [],
-      "runtimeInfos": {},
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=158",
+              "$$hashKey": "object:3000"
+            },
+            {
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=159",
+              "$$hashKey": "object:3001"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
       "progressUpdateIntervalMs": 500,
       "jobName": "paragraph_1753417277678_1030741529",
       "id": "paragraph_1753396723866_1052939012",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "status": "READY",
-      "$$hashKey": "object:14529"
+      "dateStarted": "2025-07-25T07:13:47+0000",
+      "dateFinished": "2025-07-25T07:13:47+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:634"
     },
     {
       "text": "%md\n### Provincias con muchos vehículos pero pocos siniestros",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T04:21:17+0000",
+      "dateUpdated": "2025-07-25T07:13:47+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -1640,13 +1817,15 @@
       "jobName": "paragraph_1753417277680_600843551",
       "id": "paragraph_1753396710168_389713690",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "status": "READY",
-      "$$hashKey": "object:14530"
+      "dateStarted": "2025-07-25T07:13:47+0000",
+      "dateFinished": "2025-07-25T07:13:47+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:635"
     },
     {
       "text": "val buenasPracticas = relacion.filter(col(\"siniestros_por_vehiculo\") < 0.50)\n\nz.show(buenasPracticas)",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T04:24:17+0000",
+      "dateUpdated": "2025-07-25T07:13:47+0000",
       "progress": 100,
       "config": {
         "editorSetting": {
@@ -1661,7 +1840,7 @@
         "results": {
           "0": {
             "graph": {
-              "mode": "table",
+              "mode": "pieChart",
               "height": 300,
               "optionOpen": false,
               "setting": {
@@ -1684,10 +1863,38 @@
                   },
                   "updated": false,
                   "initialized": false
+                },
+                "stackedAreaChart": {
+                  "rotate": {
+                    "degree": "-45"
+                  },
+                  "xLabelStatus": "default"
+                },
+                "multiBarChart": {
+                  "rotate": {
+                    "degree": "-45"
+                  },
+                  "xLabelStatus": "default"
                 }
               },
-              "commonSetting": {}
-            }
+              "commonSetting": {},
+              "keys": [
+                {
+                  "name": "Provincia",
+                  "index": 0,
+                  "aggr": "sum"
+                }
+              ],
+              "groups": [],
+              "values": [
+                {
+                  "name": "total_vehiculos",
+                  "index": 1,
+                  "aggr": "sum"
+                }
+              ]
+            },
+            "helium": {}
           }
         },
         "enabled": true
@@ -1718,20 +1925,20 @@
           "group": "spark",
           "values": [
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=22",
-              "$$hashKey": "object:17560"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=160",
+              "$$hashKey": "object:3091"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=23",
-              "$$hashKey": "object:17561"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=161",
+              "$$hashKey": "object:3092"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=24",
-              "$$hashKey": "object:17562"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=162",
+              "$$hashKey": "object:3093"
             },
             {
-              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=26",
-              "$$hashKey": "object:17563"
+              "jobUrl": "http://10.0.2.15:4040/jobs/job?id=164",
+              "$$hashKey": "object:3094"
             }
           ],
           "interpreterSettingId": "spark"
@@ -1741,15 +1948,15 @@
       "jobName": "paragraph_1753417277680_499794614",
       "id": "paragraph_1753396717949_1198656283",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T04:24:17+0000",
-      "dateFinished": "2025-07-25T04:24:18+0000",
+      "dateStarted": "2025-07-25T07:13:47+0000",
+      "dateFinished": "2025-07-25T07:13:48+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14531"
+      "$$hashKey": "object:636"
     },
     {
       "text": "%md \n# Interpretaciones",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T04:23:32+0000",
+      "dateUpdated": "2025-07-25T07:13:48+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -1785,15 +1992,15 @@
       "jobName": "paragraph_1753417277680_2071281080",
       "id": "paragraph_1753396786546_1315337879",
       "dateCreated": "2025-07-25T04:21:17+0000",
-      "dateStarted": "2025-07-25T04:23:32+0000",
-      "dateFinished": "2025-07-25T04:23:36+0000",
+      "dateStarted": "2025-07-25T07:13:48+0000",
+      "dateFinished": "2025-07-25T07:13:48+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14532"
+      "$$hashKey": "object:637"
     },
     {
       "text": "%md\n## Consulta 1 - Total de siniestros por provincia \n\nLa consulta realizada muestra los siniestros viales del año 2023 por provincia. A partir del gráfico generado, se observa que las provincias con mayor cantidad de accidentes son las provincias de Guayas y Pichincha, lo cual resulta coherente considerando que allí se ubican ciudades como Guayaquil y Quito, capitales del país y que se caracterizan por su alta densidad poblacional y mayor cantidad de vehículos. \n\nPor otro lado, provincias como Manabí, Azuay y Santo Domingo también presentan cifras elevadas, mientras que territorios con menor población o tránsito, como Galápagos o Zamora Chinchipe, registran pocos siniestros. \n\nSi bien esta consulta no profundiza en las causas, sí permite identificar las zonas más afectadas por la siniestralidad vial, y permite dar a conocer los puntos más conflictivos a nivel nacional. ",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:45:42+0000",
+      "dateUpdated": "2025-07-25T07:13:48+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -1829,15 +2036,15 @@
       "jobName": "paragraph_1753417412131_195657086",
       "id": "paragraph_1753417412131_195657086",
       "dateCreated": "2025-07-25T04:23:32+0000",
-      "dateStarted": "2025-07-25T05:45:42+0000",
-      "dateFinished": "2025-07-25T05:45:42+0000",
+      "dateStarted": "2025-07-25T07:13:48+0000",
+      "dateFinished": "2025-07-25T07:13:48+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14533"
+      "$$hashKey": "object:638"
     },
     {
       "text": "%md\n## Consulta 2 - Siniestros por mes (nacional)\n\nLa consulta realizada refleja los siniestros viales registrados en el año 2023 divididos por meses. Los resultados se ven en un gráfico de líneas que permite identificar una tendencia general ascedente en el paso del tiempo en el año. \n\nDiciembre fue el mes con mayor número de siniestros, seguido por julio y septiembre. Esto podría estar relacionado con el incremento del tráfico debido a periodos de feriados nacionales, vacaciones o eventos de fin de año. En contraste, marzo y abril presentan las cifras más bajas, posiblemente por factores como condiciones climáticas adversas o una mayor eficacia en los controles viales. \n\nLos resultados permiten detectar los periodos de mayor riesgo, lo que puede servir de base para planificar campañas preventivas o reforzar medidas de seguridad vial en los meses más críticos. ",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:45:46+0000",
+      "dateUpdated": "2025-07-25T07:13:48+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -1873,15 +2080,15 @@
       "jobName": "paragraph_1753417552324_603574612",
       "id": "paragraph_1753417552324_603574612",
       "dateCreated": "2025-07-25T04:25:52+0000",
-      "dateStarted": "2025-07-25T05:45:46+0000",
-      "dateFinished": "2025-07-25T05:45:46+0000",
+      "dateStarted": "2025-07-25T07:13:48+0000",
+      "dateFinished": "2025-07-25T07:13:48+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14534"
+      "$$hashKey": "object:639"
     },
     {
       "text": "%md\n## Consulta 3 - Índice de víctimas por siniestro por provincia\n\n\nEsta consulta cruza el total de víctimas registradas con el total de siniestros por provincia, calcula un indicador llamado “víctimas por siniestro”, que muestra un promedio de cuántas personas resultan afectadas por accidente en cada provincia. \n\nEl gráfico revela que existe una relación entre las provincias con mayor cantidad de siniestros y su gravedad, como es el caso de Guayas y Pichincha. Esto indica que en esas zonas los accidentes suelen ser más graves o afectan a más personas. \n\nEste tipo de análisis ayuda a identificar regiones donde no solo hay siniestros frecuentes, sino también más severos. Las causas podrían estar relacionadas con el tipo de vía, la velocidad con la que se circula, una señalización deficiente o acceso limitado a servicios de emergencia. ",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:46:00+0000",
+      "dateUpdated": "2025-07-25T07:13:48+0000",
       "progress": 0,
       "config": {
         "editorSetting": {
@@ -1917,15 +2124,15 @@
       "jobName": "paragraph_1753417615415_333397402",
       "id": "paragraph_1753417615415_333397402",
       "dateCreated": "2025-07-25T04:26:55+0000",
-      "dateStarted": "2025-07-25T05:46:00+0000",
-      "dateFinished": "2025-07-25T05:46:00+0000",
+      "dateStarted": "2025-07-25T07:13:48+0000",
+      "dateFinished": "2025-07-25T07:13:48+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14535"
+      "$$hashKey": "object:640"
     },
     {
       "text": "%md\n## Consulta 4 - Tipos de vehículos más frecuentes por provincia \n\nLa consulta muestra cuántos vehículos están matriculados en cada una de las provincias, agrupados por diferentes clases (moto, auto particular, camión, etc.). El gráfico permite identificar qué tipo de vehículo predomina en cada provincia. \n\nLas motos tienen una alta presencia en varias provincias, lo que refleja su uso como medio de movilidad económica, aunque también representan mayor vulnerabilidad. Los camiones destacan en zonas con fuerte actividad comercial o rutas logísticas, como Guayas o El Oro, lo que indica su relación con el transporte de carga. Por otro lado, los autos particulares predominan en provincias urbanizadas como Pichincha y Azuay, donde hay mayor densidad poblacional. \n\nEsta distribución permite entender el perfil de movilidad de cada provincia y puede relacionarse con el tipo y frecuencia de los siniestros analizados en consultas anteriores. ",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:46:43+0000",
+      "dateUpdated": "2025-07-25T07:13:48+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -1961,15 +2168,15 @@
       "jobName": "paragraph_1753422360268_411232457",
       "id": "paragraph_1753422360268_411232457",
       "dateCreated": "2025-07-25T05:46:00+0000",
-      "dateStarted": "2025-07-25T05:46:43+0000",
-      "dateFinished": "2025-07-25T05:46:43+0000",
+      "dateStarted": "2025-07-25T07:13:48+0000",
+      "dateFinished": "2025-07-25T07:13:48+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14536"
+      "$$hashKey": "object:641"
     },
     {
       "text": "%md\n## Consulta 5 - Relación entre número de vehículos y número de siniestros por provincia \n\nEsta consulta cruza el número total de siniestros con el total de vehículos registrados por provincia. El objetivo es observar si existe alguna correlación entre la cantidad de vehículos en circulación y la ocurrencia de accidentes. \n\nEl gráfico muestra que provincias como Guayas y Pichincha concentran tanto una alta cantidad de vehículos como una alta cantidad de siniestros, lo cual es acorde a la realidad considerando su densidad poblacional, nivel de urbanización y volumen de tránsito diario. \n\nSin embargo, también se evidencian provincias donde, a pesar de tener un número relativamente bajo de vehículos, los siniestros son proporcionalmente altos, como lo son Cotopaxi y Esmeraldas. Esto puede sugerir problemas en infraestructura vial, señalización deficiente o menor control del tránsito. \n\nEn general, esta relación ayuda a entender si la frecuencia de accidentes está asociada simplemente al número de vehículos o si hay otros factores estructurales o sociales involucrados. ",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:47:15+0000",
+      "dateUpdated": "2025-07-25T07:13:48+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -2005,15 +2212,15 @@
       "jobName": "paragraph_1753422384700_715125085",
       "id": "paragraph_1753422384700_715125085",
       "dateCreated": "2025-07-25T05:46:24+0000",
-      "dateStarted": "2025-07-25T05:47:15+0000",
-      "dateFinished": "2025-07-25T05:47:15+0000",
+      "dateStarted": "2025-07-25T07:13:48+0000",
+      "dateFinished": "2025-07-25T07:13:48+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14537"
+      "$$hashKey": "object:642"
     },
     {
       "text": "%md\n## Consulta 6 - ¿Qué tipo de vehículos predominan en provincias con muchos siniestros? \n\nLa consulta agrupa los vehículos por tipo y por provincia, mostrando cuántos hay de cada tipo en cada provincia. El gráfico permite comparar cómo varía el parque vehicular según la región. \n\nSe observa que provincias como Guayas, Pichincha y Manabí presentan una mayor diversidad y cantidad de vehículos, lo cual está relacionado con su nivel de urbanización y actividad económica. \n\t\nPor otro lado, provincias con menor densidad poblacional como Galápagos o Zamora Chinchipe tienen menos presencia vehicular, lo que también implica menos tipos de vehículos en circulación, considerando que tienen menor población. \n\nEsta información es útil para entender el perfil de movilidad de cada provincia, ya que el tipo de vehículo predominante (motos, camiones, autos particulares, etc.) puede estar vinculado con el uso cotidiano, la economía local o la infraestructura vial disponible. \n",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:47:33+0000",
+      "dateUpdated": "2025-07-25T07:13:48+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -2049,15 +2256,15 @@
       "jobName": "paragraph_1753422435811_1309887467",
       "id": "paragraph_1753422435811_1309887467",
       "dateCreated": "2025-07-25T05:47:15+0000",
-      "dateStarted": "2025-07-25T05:47:33+0000",
-      "dateFinished": "2025-07-25T05:47:33+0000",
+      "dateStarted": "2025-07-25T07:13:48+0000",
+      "dateFinished": "2025-07-25T07:13:48+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14538"
+      "$$hashKey": "object:643"
     },
     {
       "text": "%md\n## Consulta 7 - ¿Hay relación entre el tipo de combustible y accidentes? \n\nLa consulta agrupa cuántos vehículos hay por tipo de combustible en cada provincia, permitiendo observar si existe alguna relación indirecta con la cantidad de accidentes registrados. \n\nAunque el gráfico no muestra directamente la conexión entre combustible y siniestros, se puede hacer una interpretación basada en el contexto: \n\n - Vehículos a diésel, que suelen ser camiones o transporte pesado, están más presentes en provincias con actividad comercial o logística como Guayas, El Oro o Manabí, lo que podría influir en el tipo y gravedad de los siniestros registrados allí. \n\n - Vehículos a gasolina, más comunes en zonas urbanas como Pichincha o Azuay, suelen ser autos particulares con alta circulación diaria, lo que incrementa la exposición al riesgo de estar en un siniestro. \n\n - En cambio, vehículos eléctricos o híbridos aún tienen baja presencia, por lo que no se puede establecer un patrón claro con respecto a su relación con los accidentes. \n\nEn conclusión, aunque el tipo de combustible no causa directamente un accidente, sí puede estar relacionado con el tipo de vehículo y su función, lo cual influye en el comportamiento vial y en la dinámica de los siniestros por provincia. ",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:48:02+0000",
+      "dateUpdated": "2025-07-25T07:13:49+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -2093,15 +2300,15 @@
       "jobName": "paragraph_1753422453931_1514529661",
       "id": "paragraph_1753422453931_1514529661",
       "dateCreated": "2025-07-25T05:47:33+0000",
-      "dateStarted": "2025-07-25T05:48:02+0000",
-      "dateFinished": "2025-07-25T05:48:02+0000",
+      "dateStarted": "2025-07-25T07:13:49+0000",
+      "dateFinished": "2025-07-25T07:13:49+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14539"
+      "$$hashKey": "object:644"
     },
     {
       "text": "%md\n## Consulta 8 - Provincias con muchos vehículos, pero pocos siniestros \n\nEsta consulta identifica provincias donde, a pesar de tener una cantidad considerable de vehículos matriculados, el número de siniestros registrados es bajo en proporción. Se utiliza como criterio que el promedio de siniestros por vehículo sea menor al 50%, ya que este porcentaje es óptimo para poder obtener algunas provincias y poder desarrollar una interpretación. \n\nProvincias como Cañar, Sucumbíos y Carchi destacan porque, aunque cuentan con cientos de vehículos registrados, logran mantener los niveles de accidentes relativamente bajos. Esto podría estar relacionado con mejores prácticas viales, menor congestión vehicular, o una conducción más responsable. \n\nEs importante resaltar que el porcentaje de vehiculos involucrados en un siniestro de tránsito en Ecuador es bastante alto, teniendo en cuenta que Galapagos, el cual no se caracteriza por tener una gran cantidad de vehículos, tiene un porcentaje del 36%, y así se pueden encontrar más provincias que presentan el mismo caso. \n\nEste análisis permite identificar zonas que, por sus resultados, podrían tomarse como ejemplo para otras provincias más conflictivas en términos de siniestralidad.",
       "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:48:48+0000",
+      "dateUpdated": "2025-07-25T07:13:49+0000",
       "progress": 0,
       "config": {
         "tableHide": false,
@@ -2137,44 +2344,13 @@
       "jobName": "paragraph_1753422482880_418955631",
       "id": "paragraph_1753422482880_418955631",
       "dateCreated": "2025-07-25T05:48:02+0000",
-      "dateStarted": "2025-07-25T05:48:48+0000",
-      "dateFinished": "2025-07-25T05:48:48+0000",
+      "dateStarted": "2025-07-25T07:13:49+0000",
+      "dateFinished": "2025-07-25T07:13:49+0000",
       "status": "FINISHED",
-      "$$hashKey": "object:14540"
-    },
-    {
-      "text": "%md\n",
-      "user": "anonymous",
-      "dateUpdated": "2025-07-25T05:48:48+0000",
-      "progress": 0,
-      "config": {
-        "colWidth": 12,
-        "fontSize": 9,
-        "enabled": true,
-        "results": {},
-        "editorSetting": {
-          "language": "markdown",
-          "editOnDblClick": true,
-          "completionKey": "TAB",
-          "completionSupport": false
-        },
-        "editorMode": "ace/mode/markdown"
-      },
-      "settings": {
-        "params": {},
-        "forms": {}
-      },
-      "apps": [],
-      "runtimeInfos": {},
-      "progressUpdateIntervalMs": 500,
-      "jobName": "paragraph_1753422528671_595194884",
-      "id": "paragraph_1753422528671_595194884",
-      "dateCreated": "2025-07-25T05:48:48+0000",
-      "status": "READY",
-      "$$hashKey": "object:14541"
+      "$$hashKey": "object:645"
     }
   ],
-  "name": "Siniestros en Ecuador en el 2023",
+  "name": "[",
   "id": "2M2QMEZQ3",
   "defaultInterpreterGroup": "spark",
   "version": "0.10.1",
@@ -2186,8 +2362,6 @@
     "looknfeel": "default",
     "personalizedMode": "false"
   },
-  "info": {
-    "isRunning": false
-  },
-  "path": "/Siniestros en Ecuador en el 2023"
+  "info": {},
+  "path": "/["
 }
